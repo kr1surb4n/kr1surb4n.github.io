@@ -5,7 +5,7 @@ date:   2023-06-07 10:12:11 +0100
 categories: selenium hacking
 ---
 
-Do you want to run automate your activities on a webpage with a browser controlled by Selenium Webdriver, but it's being detected ??
+Do you want to automate your activities on a webpage with a browser controlled by Selenium Webdriver, but it's being detected ??
 You can find on the Internet some solutions. There is one for Google Chrome with the use of some scripts - it works, but only in the headless mode (don't know if it's still working).
 I once looked at how to do it. I checked how the browser is detected. What I have found was that the basic detection is done by the webpage, by checking in JavaScript if the property `navigator.webdriver` is `true`. You can't change this using the Selenium interface or by injecting your own JavaScript.  I have tried that. 
 
