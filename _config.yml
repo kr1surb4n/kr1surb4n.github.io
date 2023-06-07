@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: minima
-title: Przemek Urbanski
+title: Kris Urbanski
 email: przemek.kris.urbanski+blog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a software engineer and a hacker. I write here about  work, ideas,
