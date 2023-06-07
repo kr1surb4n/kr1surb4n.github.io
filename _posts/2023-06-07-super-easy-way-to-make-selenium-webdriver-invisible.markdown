@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Super easy way to make Selenium Webdriver invisible to detectors"
-date:   2023-06-07 12:12:11 +0100
+date:   2023-06-07 10:12:11 +0100
 categories: selenium hacking
 ---
 
